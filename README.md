@@ -6,16 +6,16 @@ In this repository we tried to implement a simplified copy of the **Shazam** app
 
 ## Overview
 
-1. Converting the songs from mp3 to wav with Librosa and extraction of the peaks
-2. MinHashing with permutations on the shingles matrix
-3. Locality sensitive hashing to divide the songs in buckets
+1. Converting the songs from mp3 to wav with Librosa and extraction of the peaks.
+2. MinHashing with permutations on the shingles matrix.
+3. Locality sensitive hashing to divide the songs in buckets.
 4. Shazam!
 
 ## Contents
 
 - _pickle_ is a folder that contains the songs peaks, the shingles array and the shingle matrix in pickle format.
-- _ShazamLSH.ipynb_ is the main notebook that only contains the explanation of the steps and some comments
-- _function.py_ contains all the implemented function needed to execute the notebook
+- _ShazamLSH.ipynb_ is the main notebook that only contains the explanation of the steps and some comments.
+- _function.py_ contains all the implemented function needed to execute the notebook.
 
 ## Resources
 This is the dataset we used and processed:
