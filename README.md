@@ -25,3 +25,7 @@ We also share some useful links can help to understand what is the process behin
 - https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
 - https://www.learndatasci.com/tutorials/building-recommendation-engine-locality-sensitive-hashing-lsh-python/
 - https://librosa.org/
+
+## Collaborators
+- [Andrea Potì](https://github.com/obster991)
+- [Arturo Ghinassi](https://github.com/santurini)
